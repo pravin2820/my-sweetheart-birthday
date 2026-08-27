@@ -71,12 +71,11 @@ export const HeroSection = () => {
           <br />
           <span className="font-bold">Birthday</span>
           <br/>
-          <span className="font-bold mt-1 text-amber-500">Sweety</span>
+          <span className="font-bold mt-1 text-amber-500">Gauri 😘</span>
         </h1>
         <div className="mt-6 h-px w-16 bg-[#9C7A3F]" />
         <p className="hero-body mt-6 max-w-sm text-base leading-relaxed text-[#4A4A42]">
-       wishing you a day filled with love, laughter, and all the happiness your heart can hold. May this year bring you endless joy and unforgettable memories. Happy Birthday!
-        </p>
+Happy Birthday! If I could give you one thing today, it would be the ability to see yourself through my eyes—so you could see just how incredibly special you are. ❤️        </p>
       </div>
 
       {/* The trail — moved up under the headline, full-bleed edge to edge, tilted */}
